@@ -1,2 +1,6 @@
+master
 Hello this is new file
 I am adding this line
+=======
+Hello this new file
+ uat
